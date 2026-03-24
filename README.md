@@ -1,9 +1,10 @@
 # Математические основы кибернетики
 
 MFC - Mathematical foundations of cybernetics
+
 TAC - Theory of automatic control
 
-### Структура
+### Структура репозитория
 
 ```
 MFC/
