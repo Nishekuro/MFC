@@ -1,0 +1,1 @@
+/home/n/Templates/sfu-typst/template.typ
